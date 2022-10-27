@@ -1,4 +1,4 @@
-# NBA-SHOT-CHART-ADVANCED
+# 🏀NBA-SHOT-CHART-ADVANCED🏀
 ## ***EN***
 
 Personal project to lear how to creat a Shot Chart on Python
